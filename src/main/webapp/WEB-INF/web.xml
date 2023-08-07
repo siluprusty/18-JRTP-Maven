@@ -1,0 +1,7 @@
+<web-app>
+	<display-name>JspApp</display-name>
+	<welcome-file-list>
+		<welcome-file>message_generator.jsp</welcome-file>
+		
+	</welcome-file-list>
+</web-app>
